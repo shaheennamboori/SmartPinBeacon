@@ -1,0 +1,2 @@
+include ':app', ':bp-basesdk'
+rootProject.name='My Application'

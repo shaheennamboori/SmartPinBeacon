@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <string name="app_name">Beacon Plus Base SDK</string>
+    <string name="txt_error_app_secret_null">App secret value is empty</string>
+    <string name="txt_error_bt_le_not_turned_on">Bluetooth is not turned on.</string>
+    <string name="txt_error_bt_le_unavailable">Bluetooth LE feature is unavailable in the device.</string>
+    <string name="txt_error_bt_not_configured_for_scanning">Bluetooth is not configured yet to start the scanning.</string>
+    <string name="txt_error_config_entity_null">Configuration entity is null.</string>
+    <string name="txt_error_config_error_parsing_entity_into_json">Error parsing the entity object into JSON.</string>
+    <string name="txt_error_config_error_parsing_json_into_entity">Error parsing the JSON into entity object.</string>
+    <string name="txt_error_config_json_null">Configuration JSON is null.</string>
+    <string name="txt_error_configuration_not_received">Configuration not received.</string>
+    <string name="txt_error_default">Un-categorized exception.</string>
+    <string name="txt_error_init_error_uninitialized_httpmanager">Http Manager is yet to be initialized.</string>
+    <string name="txt_error_invalid_config_json">Invalid configuration JSON</string>
+    <string name="txt_error_invalid_date_time">Time mismatch with server</string>
+    <string name="txt_error_invalid_parametres">Init parameters missing or invalid.</string>
+    <string name="txt_error_invalid_uuid">Invalid beacon regions UUID string received from server</string>
+    <string name="txt_error_loc_not_turned_on">Location service is not turned on.</string>
+    <string name="txt_error_loc_permission_denied">Location permission is denied.</string>
+    <string name="txt_error_network_unavailable">Failed to communicate with server</string>
+    <string name="txt_error_not_initialized">Not initialized yet.</string>
+    <string name="txt_error_null_context">Context is null.</string>
+    <string name="txt_error_sdk_expired">Sdk has expired.</string>
+    <string name="txt_error_un_supported_mode">This mode is not supported. Only without server mode is allowed.</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

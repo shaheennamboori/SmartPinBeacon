@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1094758662143",
+    "firebase_url": "https://smartpin-feb5f.firebaseio.com",
+    "project_id": "smartpin-feb5f",
+    "storage_bucket": "smartpin-feb5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094758662143:android:1aeb489648040c6a3531ca",
+        "android_client_info": {
+          "package_name": "com.astabits.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094758662143-ta581qt09d8k20vmh7k5cdbc0m8jn37q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astabits.myapplication",
+            "certificate_hash": "3709a9add4d621878cb0a14080643af7377bab0a"
+          }
+        },
+        {
+          "client_id": "1094758662143-ll774fl3nfumptofak268t2i3dmmcb9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwAEEE_ygunC_gPw8Rt8IrnbO61JS9cbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094758662143-ll774fl3nfumptofak268t2i3dmmcb9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
